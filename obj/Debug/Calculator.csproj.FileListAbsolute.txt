@@ -1,0 +1,9 @@
+D:\code\Calculator\Calculator\bin\Debug\UART_test.exe.config
+D:\code\Calculator\Calculator\bin\Debug\UART_test.exe
+D:\code\Calculator\Calculator\bin\Debug\UART_test.pdb
+D:\code\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\code\Calculator\Calculator\obj\Debug\UART_test.Form1.resources
+D:\code\Calculator\Calculator\obj\Debug\UART_test.Properties.Resources.resources
+D:\code\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\code\Calculator\Calculator\obj\Debug\UART_test.exe
+D:\code\Calculator\Calculator\obj\Debug\UART_test.pdb
